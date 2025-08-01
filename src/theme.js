@@ -17,7 +17,7 @@ const config = defineConfig({
           800: "#09394c",
           900: "#00121f",
         },
-        accentTeal: { value: "#38b2ac" },
+        accentTeal: { value: "#437acdff" },
         accentGreen: { value: "#48bb78" },
         primaryBlue: { value: "#4fd1c5" },
         alertRed: { value: "#f56565" },
